@@ -87,6 +87,6 @@ Redirecionamento e expiração:
 
 
 👨‍💻 Autor
-Senhor Luan – Desenvolvedor back-end
+Nome: Luan – Desenvolvedor back-end
 Contato: luanfamilia2015@gmail.com
 GitHub: @Luan22Wolf
